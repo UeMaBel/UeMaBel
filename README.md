@@ -8,6 +8,7 @@ technology.
 
 Current interests include AI/LLM integration, quantitative software and
 building reliable systems around probabilistic or model-driven components.
+Visit me on [uebel.dev](https://www.uebel.dev)
 
 ## Featured project
 
@@ -27,3 +28,4 @@ Python · FastAPI · Django · C#/.NET · SQL · PostgreSQL · React · TypeScri
 Docker · CI/CD · OpenAI API
 
 [Professional profile on XING](https://www.xing.com/profile/Matthias_Uebelacker3)
+[Personal Website](https://www.uebel.dev)
